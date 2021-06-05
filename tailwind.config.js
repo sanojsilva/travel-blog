@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        playfair: ["playfair"],
-        "playfair-italic": ["playfair-italic"],
+        playfair: ["Playfair Display"],
+        // "playfair-italic": ["playfair-italic"],
         montserrat: ["montserrat"],
         dosis: ["dosis"],
       },

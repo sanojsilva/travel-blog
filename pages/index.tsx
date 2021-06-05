@@ -1,3 +1,10 @@
+import Hero from "../components/Home/Hero";
+
 export default function Home() {
-  return <div className="bg-yellow-400 h-screen w-screen"></div>;
+  return (
+    <div className="">
+      <Hero />
+      <div className="h-screen"></div>
+    </div>
+  );
 }
