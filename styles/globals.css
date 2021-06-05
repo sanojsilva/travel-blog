@@ -19,3 +19,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "playfair";
+  src: url("/fonts/playfair/PlayfairDisplay.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "playfair-italic";
+  src: url("/fonts/playfair/PlayfairDisplay-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "montserrat";
+  src: url("/fonts/montserrat/Montserrat.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "dosis";
+  src: url("/fonts/dosis/Dosis.ttf") format("truetype");
+}
