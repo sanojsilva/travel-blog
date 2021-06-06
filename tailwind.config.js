@@ -9,6 +9,10 @@ module.exports = {
         montserrat: ["montserrat"],
         dosis: ["dosis"],
       },
+      backgroundImage: (theme) => ({
+        "head-bg": "url('../public/head-bg.jpg')",
+        "quote-bg": "url('../public/quotes.png')",
+      }),
     },
   },
   variants: {
