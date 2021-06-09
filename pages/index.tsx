@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="">
       <Hero />
-      <div className="h-screen"></div>
+      <div className="h-screen bg-gray-600"></div>
     </div>
   );
 }

@@ -3,7 +3,7 @@ import React from "react";
 function HeroRightTop() {
   return (
     <div
-      className="col-span-2 bg-cover bg-center flex flex-col justify-center items-center row-span-2 relative"
+      className="col-span-2 bg-cover bg-center flex flex-col justify-center items-center row-span-1 relative"
       style={{
         backgroundImage: "url(/hero-right.jpg)",
       }}

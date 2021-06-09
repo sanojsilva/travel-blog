@@ -4,7 +4,7 @@ import HeroRight from "./HeroRight";
 
 function Hero() {
   return (
-    <div className="h-screen w-full grid grid-cols-3 grid-rows-4">
+    <div className="h-screen w-full grid grid-cols-3 grid-rows-2">
       <HeroLeft />
       <HeroRight />
     </div>
